@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="TopPlayersTableViewSectionHeader" customModule="NRLStatistics" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="56"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="336-pI-OS5">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="56"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="AjO-cV-6ah">
+                            <rect key="frame" x="15" y="16" width="152.5" height="24"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="OUU-mD-VN0">
+                            <rect key="frame" x="207.5" y="16" width="152.5" height="24"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Top Players" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fT3-Po-9fc">
+                            <rect key="frame" x="138" y="16.5" width="99.5" height="24"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="20"/>
+                            <nil key="textColor"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstItem="fT3-Po-9fc" firstAttribute="top" secondItem="336-pI-OS5" secondAttribute="top" constant="16" id="0oU-Gi-juR"/>
+                        <constraint firstItem="OUU-mD-VN0" firstAttribute="leading" secondItem="AjO-cV-6ah" secondAttribute="trailing" constant="40" id="1oA-iq-bdz"/>
+                        <constraint firstAttribute="bottom" secondItem="fT3-Po-9fc" secondAttribute="bottom" constant="16" id="2KO-Xv-6pd"/>
+                        <constraint firstItem="fT3-Po-9fc" firstAttribute="centerX" secondItem="336-pI-OS5" secondAttribute="centerX" id="C1X-gq-IGM"/>
+                        <constraint firstItem="AjO-cV-6ah" firstAttribute="top" secondItem="336-pI-OS5" secondAttribute="top" constant="16" id="E9S-dc-xyY"/>
+                        <constraint firstAttribute="bottom" secondItem="AjO-cV-6ah" secondAttribute="bottom" constant="16" id="ExV-K8-zL6"/>
+                        <constraint firstAttribute="bottom" secondItem="OUU-mD-VN0" secondAttribute="bottom" constant="16" id="Uzj-wv-hmg"/>
+                        <constraint firstItem="AjO-cV-6ah" firstAttribute="width" secondItem="OUU-mD-VN0" secondAttribute="width" id="WGh-4I-TJ2"/>
+                        <constraint firstAttribute="trailing" secondItem="OUU-mD-VN0" secondAttribute="trailing" constant="15" id="kOu-Pz-oVT"/>
+                        <constraint firstItem="OUU-mD-VN0" firstAttribute="top" secondItem="336-pI-OS5" secondAttribute="top" constant="16" id="t1m-0a-iBF"/>
+                        <constraint firstItem="AjO-cV-6ah" firstAttribute="leading" secondItem="336-pI-OS5" secondAttribute="leading" constant="15" id="vO8-43-ZfD"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <constraints>
+                <constraint firstItem="336-pI-OS5" firstAttribute="bottom" secondItem="vUN-kp-3ea" secondAttribute="bottom" id="5YV-4R-p6d"/>
+                <constraint firstItem="336-pI-OS5" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" id="MXc-ng-b6h"/>
+                <constraint firstItem="336-pI-OS5" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" id="T2t-3K-brU"/>
+                <constraint firstItem="336-pI-OS5" firstAttribute="trailing" secondItem="vUN-kp-3ea" secondAttribute="trailing" id="sS5-z8-lHb"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <connections>
+                <outlet property="teamANameLabel" destination="AjO-cV-6ah" id="eVE-HH-gy0"/>
+                <outlet property="teamBNameLabel" destination="OUU-mD-VN0" id="YtH-FS-a9b"/>
+            </connections>
+            <point key="canvasLocation" x="34.5" y="595"/>
+        </view>
+    </objects>
+</document>

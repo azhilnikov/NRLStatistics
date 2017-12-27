@@ -1,0 +1,402 @@
+ [
+  {
+  "match_id": "NRL20172101",
+  "team_A": {
+  "id": 55011,
+  "name": "Penrith",
+  "code": "PEN",
+  "short_name": "Panthers",
+  "top_players": [
+                  {
+                  "id": 115370,
+                  "position": "Full Back",
+                  "full_name": "Dylan Edwards",
+                  "short_name": "D. Edwards",
+                  "stat_value": 21,
+                  "jumper_number": 1
+                  },
+                  {
+                  "id": 109705,
+                  "position": "Prop Forward",
+                  "full_name": "James Tamou",
+                  "short_name": "J. Tamou",
+                  "stat_value": 17,
+                  "jumper_number": 8
+                  },
+                  {
+                  "id": 114076,
+                  "position": "Wing",
+                  "full_name": "Dallin Watene-Zelezniak",
+                  "short_name": "D. Watene-Zelezniak",
+                  "stat_value": 17,
+                  "jumper_number": 5
+                  },
+                  {
+                  "id": 111483,
+                  "position": "Wing",
+                  "full_name": "Josh Mansour",
+                  "short_name": "J. Mansour",
+                  "stat_value": 16,
+                  "jumper_number": 2
+                  },
+                  {
+                  "id": 113214,
+                  "position": "Interchange",
+                  "full_name": "Reagan Campbell-Gillard",
+                  "short_name": "R. Campbell-Gillard",
+                  "stat_value": 13,
+                  "jumper_number": 10
+                  }
+                  ]
+  },
+  "team_B": {
+  "id": 55005,
+  "name": "Canterbury",
+  "code": "CBY",
+  "short_name": "Bulldogs",
+  "top_players": [
+                  {
+                  "id": 111148,
+                  "position": "Full Back",
+                  "full_name": "William Hopoate",
+                  "short_name": "W. Hopoate",
+                  "stat_value": 21,
+                  "jumper_number": 1
+                  },
+                  {
+                  "id": 112952,
+                  "position": "Lock",
+                  "full_name": "David Klemmer",
+                  "short_name": "D. Klemmer",
+                  "stat_value": 21,
+                  "jumper_number": 13
+                  },
+                  {
+                  "id": 115026,
+                  "position": "Wing",
+                  "full_name": "Marcelo Montoya",
+                  "short_name": "M. Montoya",
+                  "stat_value": 16,
+                  "jumper_number": 5
+                  },
+                  {
+                  "id": 108807,
+                  "position": "Centre",
+                  "full_name": "Josh Morris",
+                  "short_name": "J. Morris",
+                  "stat_value": 14,
+                  "jumper_number": 3
+                  },
+                  {
+                  "id": 108896,
+                  "position": "Prop Forward",
+                  "full_name": "Aiden Tolman",
+                  "short_name": "A. Tolman",
+                  "stat_value": 14,
+                  "jumper_number": 8
+                  }
+                  ]
+  },
+  "stat_type": "runs"
+  },
+  {
+  "match_id": "NRL20172101",
+  "team_A": {
+  "id": 55011,
+  "name": "Penrith",
+  "code": "PEN",
+  "short_name": "Panthers",
+  "top_players": [
+                  {
+                  "id": 108392,
+                  "position": "Hooker",
+                  "full_name": "Peter Wallace",
+                  "short_name": "P. Wallace",
+                  "stat_value": 51,
+                  "jumper_number": 9
+                  },
+                  {
+                  "id": 114810,
+                  "position": "Second Row",
+                  "full_name": "Corey Harawira-Naera",
+                  "short_name": "C. Harawira-Naera",
+                  "stat_value": 32,
+                  "jumper_number": 11
+                  },
+                  {
+                  "id": 114081,
+                  "position": "Second Row",
+                  "full_name": "Isaah Yeo",
+                  "short_name": "I. Yeo",
+                  "stat_value": 30,
+                  "jumper_number": 12
+                  },
+                  {
+                  "id": 113214,
+                  "position": "Interchange",
+                  "full_name": "Reagan Campbell-Gillard",
+                  "short_name": "R. Campbell-Gillard",
+                  "stat_value": 29,
+                  "jumper_number": 10
+                  },
+                  {
+                  "id": 109705,
+                  "position": "Prop Forward",
+                  "full_name": "James Tamou",
+                  "short_name": "J. Tamou",
+                  "stat_value": 25,
+                  "jumper_number": 8
+                  }
+                  ]
+  },
+  "team_B": {
+  "id": 55005,
+  "name": "Canterbury",
+  "code": "CBY",
+  "short_name": "Bulldogs",
+  "top_players": [
+                  {
+                  "id": 108896,
+                  "position": "Prop Forward",
+                  "full_name": "Aiden Tolman",
+                  "short_name": "A. Tolman",
+                  "stat_value": 54,
+                  "jumper_number": 8
+                  },
+                  {
+                  "id": 112965,
+                  "position": "Hooker",
+                  "full_name": "Moses Mbye",
+                  "short_name": "M. Mbye",
+                  "stat_value": 37,
+                  "jumper_number": 9
+                  },
+                  {
+                  "id": 112952,
+                  "position": "Lock",
+                  "full_name": "David Klemmer",
+                  "short_name": "D. Klemmer",
+                  "stat_value": 33,
+                  "jumper_number": 13
+                  },
+                  {
+                  "id": 110028,
+                  "position": "Prop Forward",
+                  "full_name": "James Graham",
+                  "short_name": "J. Graham",
+                  "stat_value": 32,
+                  "jumper_number": 10
+                  },
+                  {
+                  "id": 111702,
+                  "position": "Second Row",
+                  "full_name": "Josh Jackson",
+                  "short_name": "J. Jackson",
+                  "stat_value": 31,
+                  "jumper_number": 11
+                  }
+                  ]
+  },
+  "stat_type": "tackles"
+  },
+  {
+  "match_id": "NRL20172101",
+  "team_A": {
+  "id": 55011,
+  "name": "Penrith",
+  "code": "PEN",
+  "short_name": "Panthers",
+  "top_players": [
+                  {
+                  "id": 108392,
+                  "position": "Hooker",
+                  "full_name": "Peter Wallace",
+                  "short_name": "P. Wallace",
+                  "stat_value": 68,
+                  "jumper_number": 9
+                  },
+                  {
+                  "id": 114198,
+                  "position": "Centre",
+                  "full_name": "Waqa Blake",
+                  "short_name": "W. Blake",
+                  "stat_value": 60,
+                  "jumper_number": 4
+                  },
+                  {
+                  "id": 115370,
+                  "position": "Full Back",
+                  "full_name": "Dylan Edwards",
+                  "short_name": "D. Edwards",
+                  "stat_value": 60,
+                  "jumper_number": 1
+                  },
+                  {
+                  "id": 109705,
+                  "position": "Prop Forward",
+                  "full_name": "James Tamou",
+                  "short_name": "J. Tamou",
+                  "stat_value": 54,
+                  "jumper_number": 8
+                  },
+                  {
+                  "id": 111814,
+                  "position": "Centre",
+                  "full_name": "Tyrone Peachey",
+                  "short_name": "T. Peachey",
+                  "stat_value": 52,
+                  "jumper_number": 3
+                  }
+                  ]
+  },
+  "team_B": {
+  "id": 55005,
+  "name": "Canterbury",
+  "code": "CBY",
+  "short_name": "Bulldogs",
+  "top_players": [
+                  {
+                  "id": 108896,
+                  "position": "Prop Forward",
+                  "full_name": "Aiden Tolman",
+                  "short_name": "A. Tolman",
+                  "stat_value": 84,
+                  "jumper_number": 8
+                  },
+                  {
+                  "id": 109768,
+                  "position": "Five Eighth",
+                  "full_name": "Josh Reynolds",
+                  "short_name": "J. Reynolds",
+                  "stat_value": 79,
+                  "jumper_number": 6
+                  },
+                  {
+                  "id": 112952,
+                  "position": "Lock",
+                  "full_name": "David Klemmer",
+                  "short_name": "D. Klemmer",
+                  "stat_value": 77,
+                  "jumper_number": 13
+                  },
+                  {
+                  "id": 111702,
+                  "position": "Second Row",
+                  "full_name": "Josh Jackson",
+                  "short_name": "J. Jackson",
+                  "stat_value": 60,
+                  "jumper_number": 11
+                  },
+                  {
+                  "id": 110028,
+                  "position": "Prop Forward",
+                  "full_name": "James Graham",
+                  "short_name": "J. Graham",
+                  "stat_value": 51,
+                  "jumper_number": 10
+                  }
+                  ]
+  },
+  "stat_type": "fantasy_points"
+  },
+  {
+  "match_id": "NRL20172101",
+  "team_A": {
+  "id": 55011,
+  "name": "Penrith",
+  "code": "PEN",
+  "short_name": "Panthers",
+  "top_players": [
+                  {
+                  "id": 115370,
+                  "position": "Full Back",
+                  "full_name": "Dylan Edwards",
+                  "short_name": "D. Edwards",
+                  "stat_value": 221,
+                  "jumper_number": 1
+                  },
+                  {
+                  "id": 109705,
+                  "position": "Prop Forward",
+                  "full_name": "James Tamou",
+                  "short_name": "J. Tamou",
+                  "stat_value": 163,
+                  "jumper_number": 8
+                  },
+                  {
+                  "id": 111483,
+                  "position": "Wing",
+                  "full_name": "Josh Mansour",
+                  "short_name": "J. Mansour",
+                  "stat_value": 162,
+                  "jumper_number": 2
+                  },
+                  {
+                  "id": 114076,
+                  "position": "Wing",
+                  "full_name": "Dallin Watene-Zelezniak",
+                  "short_name": "D. Watene-Zelezniak",
+                  "stat_value": 141,
+                  "jumper_number": 5
+                  },
+                  {
+                  "id": 113214,
+                  "position": "Interchange",
+                  "full_name": "Reagan Campbell-Gillard",
+                  "short_name": "R. Campbell-Gillard",
+                  "stat_value": 132,
+                  "jumper_number": 10
+                  }
+                  ]
+  },
+  "team_B": {
+  "id": 55005,
+  "name": "Canterbury",
+  "code": "CBY",
+  "short_name": "Bulldogs",
+  "top_players": [
+                  {
+                  "id": 111148,
+                  "position": "Full Back",
+                  "full_name": "William Hopoate",
+                  "short_name": "W. Hopoate",
+                  "stat_value": 198,
+                  "jumper_number": 1
+                  },
+                  {
+                  "id": 112952,
+                  "position": "Lock",
+                  "full_name": "David Klemmer",
+                  "short_name": "D. Klemmer",
+                  "stat_value": 184,
+                  "jumper_number": 13
+                  },
+                  {
+                  "id": 108807,
+                  "position": "Centre",
+                  "full_name": "Josh Morris",
+                  "short_name": "J. Morris",
+                  "stat_value": 123,
+                  "jumper_number": 3
+                  },
+                  {
+                  "id": 111702,
+                  "position": "Second Row",
+                  "full_name": "Josh Jackson",
+                  "short_name": "J. Jackson",
+                  "stat_value": 122,
+                  "jumper_number": 11
+                  },
+                  {
+                  "id": 108896,
+                  "position": "Prop Forward",
+                  "full_name": "Aiden Tolman",
+                  "short_name": "A. Tolman",
+                  "stat_value": 118,
+                  "jumper_number": 8
+                  }
+                  ]
+  },
+  "stat_type": "run_metres"
+  }
+  ]
